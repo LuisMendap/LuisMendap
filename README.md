@@ -14,7 +14,7 @@ A little knowledge in:
 - Apollo Server
 - Express
 
-I love keep learning and sharing experiences with all of this community
+I love keep learning and sharing experiences with all community
 
 
 
