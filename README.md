@@ -7,9 +7,9 @@ More than 5 years of experience in web technologies, i have experience in the ne
 - HTML 5
 - CSS3 [SASS, Custom frameworks and popular frameworks as bootstrap & tachyons]
 - Javascript [Vanilla JS, jQuery, React JS using Typescript]
+- GraphQL
 
 A little knowledge in:
-- GraphQL
 - Mongo DB [Mongoose]
 - Apollo Server
 - Express
