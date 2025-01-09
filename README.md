@@ -9,10 +9,6 @@ More than 6 years of experience in web technologies, i have experience in the ne
 - Javascript [Vanilla JS, jQuery, React JS, Typescript]
 - GraphQL
 
-A little knowledge in:
-- Mongo DB [Mongoose]
-- Apollo Server
-- Express
 
 I love keep learning and sharing experiences with all community
 
